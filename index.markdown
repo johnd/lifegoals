@@ -9,17 +9,17 @@ layout: home
 
 In no special order:
 
-* [Make my own wedding ring.](/wedding_ring.html)
-* [Lift an atlas stone](/atlas_stone.html)
+* [Make my own wedding ring.](/wedding-ring.html)
+* [Lift an atlas stone](/atlas-stone.html)
 * [Finish painting the Tallarn Desert Raider mini from the
-    90s](/tallarn_raider.html)
-* [Make and release a video game](/video_game.html)
+    90s](/tallarn-raider.html)
+* [Make and release a video game](/video-game.html)
 * [Sell an item of jewellery I've made myself to someone I don't
-    know](/sell_jewellery.html)
-* [Make my ideal bag](/ideal_bag.html)
-* [Make a Cu Mai axe](/cu_mai.html)
+    know](/sell-jewellery.html)
+* [Make my ideal bag](/ideal-bag.html)
+* [Make a Cu Mai axe](/cu-mai.html)
 * [Learn Norwegian (maybe Swedish?) to a conversational
     level](/scandinavian.html)
 * [Post a video on YouTube of a drone dive of a tall (8+ floors)
     building](/fpv.html)
-* [Convert an iMac G4 to run modern hardware](/imac_g4.html)
+* [Convert an iMac G4 to run modern hardware](/imac-g4.html)
