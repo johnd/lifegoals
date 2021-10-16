@@ -28,6 +28,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: semanticist
 github_username:  johnd
 
+header_pages:
+  - about.markdown
+
 # Build settings
 theme: minima
 plugins:

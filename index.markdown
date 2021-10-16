@@ -9,7 +9,7 @@ layout: home
 
 In no special order:
 
-* [Make my own wedding ring.](/ring.html)
+* [Make my own wedding ring.](/wedding_ring.html)
 * [Lift an atlas stone](/atlas_stone.html)
 * [Finish painting the Tallarn Desert Raider mini from the
     90s](/tallarn_raider.html)

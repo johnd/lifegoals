@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: goal
 title: Sell Jewellery
 ---
 
