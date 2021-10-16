@@ -5,13 +5,16 @@ layout: default
 
 	<div class="post-content">
 		{{ content }}
-		{% assign posts = site.categories[page.title] %}
+		{% assign posts = site.tags[page.title] %}
 
 
 		{%- if posts.size > 0 -%}
-		{%- if page.list_title -%}
-		<h2 class="post-list-heading">{{ page.list_title }}</h2>
-		{%- endif -%}
+		{% if page.list_title %}
+		{% assign posts_title = page.list_title %}
+		{% else %}
+		{% assign posts_title = "Updates" %}
+		{% endif -%}
+		<h2 class="post-list-heading">{{ posts_title }}</h2>
 		<ul class="post-list">
 			{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 			{%- for post in posts -%}

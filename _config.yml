@@ -31,6 +31,8 @@ github_username:  johnd
 header_pages:
   - about.markdown
 
+show_excerpts: true
+
 # Build settings
 theme: minima
 plugins:
