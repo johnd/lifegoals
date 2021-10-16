@@ -5,6 +5,8 @@
 layout: home
 ---
 
+## The Goals
+
 In no special order:
 
 * [Make my own wedding ring.](/wedding-ring.html)
