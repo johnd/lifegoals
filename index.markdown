@@ -18,7 +18,7 @@ In no special order:
     know](/sell-jewellery.html)
 * [Make my ideal bag](/ideal-bag.html)
 * [Make a Cu Mai axe](/cu-mai.html)
-* [Learn Norwegian (maybe Swedish?) to a conversational
+* [Learn ~Norwegian~ Swedish to a conversational
     level](/scandinavian.html)
 * [Post a video on YouTube of a drone dive of a tall (8+ floors)
     building](/fpv.html)

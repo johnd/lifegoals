@@ -3,7 +3,7 @@ layout: goal
 title: Scandinavian
 ---
 
-## Learn Norwegian (maybe Swedish?) to a conversational level
+## Learn ~Norwegian~ Swedish to a conversational level
 
 ### Overview
 
