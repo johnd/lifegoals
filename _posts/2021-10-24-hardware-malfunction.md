@@ -16,7 +16,7 @@ motor itself is dead.
 
 This is a brand new quad that's never seen the air, and also my first real
 attempt to fly an FPV quad, so I'm not super comfortable with fiddling with it
-and replacing parts, so back to the retail it's going to have to go.
+and replacing parts, so back to the retailer it's going to have to go.
 
 Very frustrating, since I was intending to start flying a battery pack every
 lunch time from tomorrow. I figured with that plus some time at the weekend I
