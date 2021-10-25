@@ -20,6 +20,5 @@ In no special order:
 * [Make a Cu Mai axe](/cu-mai.html)
 * [Learn ~~Norwegian~~ Swedish to a conversational
     level](/scandinavian.html)
-* [Post a video on YouTube of a drone dive of a tall (8+ floors)
-    building](/fpv.html)
+* [Post three complete cinematic FPV flight videos to YouTube](/fpv.html)
 * [Convert an iMac G4 to run modern hardware](/imac-g4.html)
